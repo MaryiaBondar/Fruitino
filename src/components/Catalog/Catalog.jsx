@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from "../Card/Card";
-import DATA from './../../data.js'
+import DATA from '../../data.js'
 
 const Catalog = (props) => {
 

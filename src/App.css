@@ -59,10 +59,10 @@
 
 
 .bg-cart--dark {
-  background-image: url("./img/cart.svg");
+  background-image: url("img/cart.svg");
 }
 .bg-cart--white {
-  background-image: url("./img/cart-hover.svg");
+  background-image: url("img/cart-hover.svg");
 }
 
 .icon-wrapper{
